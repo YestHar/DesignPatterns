@@ -1,0 +1,9 @@
+backup_enabled true
+cache_size 256
+database 192.168.1.100
+log_level debug
+max_connections 200
+password pass1234
+port 3306
+timeout 60
+username root
